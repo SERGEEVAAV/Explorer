@@ -1,0 +1,20 @@
+body {
+    overflow-x: hidden;
+    @extend %font-prim;
+    background-image: url('../img/main.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 2080px;
+}
+.bg {
+    width: 800px;
+    background-color: #fff;
+}
+h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    color: #000;
+}

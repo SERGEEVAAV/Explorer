@@ -1,0 +1,69 @@
+.block-stories__wrapper {
+   
+    margin: 0 auto;
+}
+
+.block-stories__content {
+    padding: 85px 240px 90px 240px;  
+    background: #fff;
+   
+    margin-top: 311px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.block-stories__title {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 40px;
+/* identical to box height, or 100% */
+margin: 0;
+text-align: center;
+margin-bottom: 24px;
+color: #333333;
+}
+.block-stories__subtitle {
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 33px;
+/* identical to box height, or 143% */
+margin: 0;
+text-align: center;
+
+color: #A9AFB3;
+
+}
+.card-1 {
+    position: absolute;
+    z-index: 1;
+}
+.block-stories__autor {
+    position: absolute;
+    z-index: 2;
+    margin-top: 131px;
+    display: flex;
+}
+.block-stories__box {
+    top: 50px;
+}
+.block-stories__title {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+width: 272px;
+position: absolute;
+z-index: 2;
+color: #000000;
+margin-top: 150px;
+}
+.block-stories__card {
+    width: 320px;
+}

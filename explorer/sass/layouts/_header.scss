@@ -1,0 +1,22 @@
+// .bg {
+//     background-image: url('../img/main.png');
+//     background-repeat: no-repeat;
+//     margin: 0 auto;
+// }
+.header {
+    padding-top: 60px;
+    // background-color: cadetblue;
+}
+.header__logo {
+    background-image: url('../img/svg/IMAGE.svg');
+    width: 176px;
+    height: 40px;
+    margin-bottom: 51px;
+}
+.header__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
